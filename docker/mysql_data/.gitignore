@@ -1,0 +1,7 @@
+test
+mysql
+performance_schema
+ib_logfile0
+ib_logfile1
+ibdata1
+!.gitignore
